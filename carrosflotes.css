@@ -1,0 +1,45 @@
+<html> 
+
+<head> 
+
+<style> 
+
+* { 
+
+  box-sizing: border-box; 
+
+} 
+
+ 
+ 
+
+.img-container { 
+
+  float: left; 
+
+  width: 32.63%; 
+
+  padding: 5px; 
+
+  text-align: justify;
+
+} 
+
+ 
+ 
+
+.clearfix::after { 
+
+  content: ""; 
+
+  clear: both; 
+
+  display: table; 
+
+} 
+
+</style> 
+
+</head> 
+
+<body> 
